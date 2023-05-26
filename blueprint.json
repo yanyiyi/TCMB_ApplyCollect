@@ -16,8 +16,8 @@
             "mapper": {},
             "metadata": {
                 "designer": {
-                    "x": 49,
-                    "y": 452
+                    "x": 0,
+                    "y": 450
                 },
                 "restore": {},
                 "parameters": [
@@ -858,8 +858,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 714,
-                                    "y": 270
+                                    "x": 600,
+                                    "y": 300
                                 },
                                 "restore": {
                                     "select": {
@@ -931,8 +931,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 1005,
-                                    "y": 266
+                                    "x": 900,
+                                    "y": 300
                                 },
                                 "restore": {
                                     "expect": {
@@ -986,8 +986,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 1367,
-                                    "y": 276
+                                    "x": 1200,
+                                    "y": 300
                                 },
                                 "restore": {},
                                 "parameters": [
@@ -1071,8 +1071,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 1684,
-                                    "y": 285
+                                    "x": 1500,
+                                    "y": 300
                                 },
                                 "restore": {
                                     "expect": {
@@ -1385,8 +1385,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 749,
-                                    "y": 587
+                                    "x": 600,
+                                    "y": 600
                                 },
                                 "restore": {
                                     "expect": {
@@ -1480,8 +1480,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 1078,
-                                    "y": 592
+                                    "x": 900,
+                                    "y": 600
                                 },
                                 "restore": {
                                     "expect": {
@@ -1923,8 +1923,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 562,
-                                    "y": 850
+                                    "x": 600,
+                                    "y": 900
                                 },
                                 "restore": {},
                                 "parameters": [
@@ -1995,8 +1995,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 1035,
-                                    "y": 879
+                                    "x": 900,
+                                    "y": 900
                                 },
                                 "restore": {
                                     "expect": {
@@ -2090,8 +2090,8 @@
                             },
                             "metadata": {
                                 "designer": {
-                                    "x": 1443,
-                                    "y": 835
+                                    "x": 1200,
+                                    "y": 900
                                 },
                                 "restore": {
                                     "expect": {
@@ -2500,7 +2500,7 @@
         "version": 1,
         "scenario": {
             "roundtrips": 1,
-            "maxErrors": 3,
+            "maxErrors": 20,
             "autoCommit": false,
             "autoCommitTriggerLast": true,
             "sequential": false,

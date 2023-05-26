@@ -10,12 +10,12 @@
 
 - 使用 Inoreader 服務 https://www.inoreader.com/
 - 這個需要購買每月 8.99 美金的 ENTERPRISE 客製化方案。（對網頁的追蹤功能、Facebook 追蹤公開頁通能、自定義 RSS 功能）
-- 其 OMPL 檔案為 XML 格式，最新更新時間為：2023-03-02-20-00-51-UTC ，詳：Inoreader-OPML.xml 檔案。
+- 其 OMPL 檔案為 XML 格式，最新更新時間為：2023-04-26-08-00-51-UTC ，詳：Inoreader-OPML.xml 檔案。
 
 
 ## 串接到 Line 與 Google Spreadsheet 
 - 這個需要每月購買 10.8 美金的 Make.com 的服務 
-- 其服務檔案格視為 json ，最新更新時間為：2023-02-24 ，詳：
+- 其服務檔案格視為 json ，最新更新時間為：2023-04-26 ，詳：
 blueprint.json 檔案
 
 
